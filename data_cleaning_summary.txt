@@ -1,0 +1,36 @@
+DATA CLEANING SUMMARY REPORT
+==================================================
+
+Total Rows: 20
+Total Columns: 7
+
+DATA TYPES DISTRIBUTION:
+------------------------------
+Link: 14 rows
+Page Title: 1 rows
+Paragraph 1: 1 rows
+Paragraph 2: 1 rows
+Paragraph 3: 1 rows
+Paragraph 4: 1 rows
+Paragraph 5: 1 rows
+
+CONTENT STATISTICS:
+------------------------------
+Average Content Length: 44.15 characters
+Average Word Count: 6.20 words
+Rows containing URLs: 1
+Rows containing arrows: 14
+
+SAMPLE OF CLEANED DATA:
+------------------------------
+    Data Type                                                       Content  Content_Length  Word_Count  Contains_URL  Contains_Arrow Language
+0  Page Title      Welcome to PassItOn.com The Foundation for a Better Life              56           9          True           False  Unknown
+1        Link               Pass It On The Foundation for a Better Life ->               47          10         False            True  Unknown
+2        Link                                QUOTES -> inspirational-quotes              30           3         False            True  Unknown
+3        Link                      VIDEOS -> inspirational-stories-tv-spots              40           3         False            True  Unknown
+4        Link  Official Pass It On Videos -> inspirational-stories-tv-spots              60           7         False            True  Unknown
+5        Link            ArtCenter College of Design PSAs -> artcenter-psas              50           7         False            True  Unknown
+6        Link                BILLBOARDS -> inspirational-sayings-billboards              46           3         False            True  Unknown
+7        Link                         STORIES -> positive-good-news-stories              37           3         False            True  Unknown
+8        Link      Positive Good News Stories -> positive-good-news-stories              56           6         False            True  Unknown
+9        Link                  PassItOn Stories eBook -> free-ebookdownload              44           5         False            True  Unknown

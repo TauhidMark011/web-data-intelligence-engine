@@ -1,0 +1,18 @@
+2025-11-08 17:26:41,970 - INFO - Logger setup completed!
+2025-11-08 17:26:41,973 - INFO - Database tables created successfully!
+2025-11-08 17:26:41,986 - INFO - Started scraping session ID: 1
+2025-11-08 17:26:41,994 - INFO - Saved 2 quotes to database
+2025-11-08 17:26:42,003 - INFO - Saved 2 products to database
+2025-11-08 17:26:42,010 - INFO - Saved 1 content items to database
+2025-11-08 17:26:42,036 - INFO - Exported 2 records from quotes to quotes_export_20251108_172642.csv
+2025-11-08 17:26:42,042 - INFO - Exported 2 records from products to products_export_20251108_172642.csv
+2025-11-08 17:26:42,049 - INFO - Completed scraping session ID: 1
+2025-11-08 19:22:23,942 - INFO - Logger setup completed!
+2025-11-08 19:22:23,961 - INFO - Database tables created successfully!
+2025-11-08 19:22:23,967 - INFO - Started scraping session ID: 1
+2025-11-08 19:22:23,972 - INFO - Saved 2 quotes to database
+2025-11-08 19:22:23,978 - INFO - Saved 2 products to database
+2025-11-08 19:22:23,984 - INFO - Saved 1 content items to database
+2025-11-08 19:22:24,005 - INFO - Exported 2 records from quotes to quotes_export_20251108_192223.csv
+2025-11-08 19:22:24,008 - INFO - Exported 2 records from products to products_export_20251108_192224.csv
+2025-11-08 19:22:24,013 - INFO - Completed scraping session ID: 1

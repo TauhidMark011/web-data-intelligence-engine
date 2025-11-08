@@ -1,0 +1,3 @@
+id,product_name,price,description,category,source_url,scrape_timestamp,is_available
+1,Wireless Mouse,$29.99,Ergonomic wireless mouse with high precision,Electronics,https://webscraper.io/test-sites/e-commerce/allinone,2025-11-08 11:56:41,1
+2,Mechanical Keyboard,$89.99,RGB mechanical keyboard with blue switches,Electronics,https://webscraper.io/test-sites/e-commerce/allinone,2025-11-08 11:56:41,1
