@@ -97,8 +97,8 @@ Core Stack:
 ***Conclusion*** 
 = Most projects use either BeautifulSoup OR Selenium - we successfully combined both for maximum coverage and efficiency. This project clearly demonstrates a complete data engineering lifecycle from raw data collection to actionable business intelligence. It combines technical excellence with practical problem-solving, making it an impressive portfolio piece that showcases real-world data engineering capabilities. The pipeline is production-ready and can be immediately deployed for business use cases requiring automated web data collection and analysis.
 
-👨‍💻 Developer
-Tauhid Alam
+👨‍💻 Developer: 
+Tauhid Alam,
 Big Data Engineer.
 
 - "Transforming raw web data into strategic business insights through robust, scalable data engineering solutions."
